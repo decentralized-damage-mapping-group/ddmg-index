@@ -7,9 +7,11 @@
 
 appearance:
   theme_day: minimal
+  # theme_day: minimal
   # theme_night: minimal
   font: minimal
   font_size: XL
+  color: custom
 
 # SEO
 

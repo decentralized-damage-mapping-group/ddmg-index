@@ -1,0 +1,122 @@
+// import Roboto (a Google font)
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+// Define font variables
+$font-primary: 'Roboto', sans-serif;
+$font-secondary: 'Courier', monospace;
+
+// Apply the primary font to the body
+body, em, p, h3, h6 {
+  font-family: $font-primary;
+}
+
+// Apply the secondary font to elements you choose, for example, headers
+h1, h2, h4, h5, a, input, textarea, button {
+  font-family: $font-secondary;
+}
+
+// Define the primary color
+$primary-color: #aa0000;
+
+// Define the background color
+$background-color: white;
+
+// Define the hover color as a darker shade of the primary color
+$hover-color: darken($primary-color, 10%);
+
+// Style for all links and ensure icons within links inherit the color
+a, a .fas {
+  color: $primary-color; // Red color for links and icons by default
+  &:hover {
+    color: $hover-color !important; // Darker red on hover
+  }
+}
+
+// Apply the primary color to nav-link elements when they are active
+.navbar-nav .nav-item .nav-link.active,
+.navbar-nav .nav-item .nav-link:hover {
+  color: $primary-color !important;  // Use !important to override any other styles
+}
+
+// You can also style the active state when it's added to the li element
+.navbar-nav .nav-item.active .nav-link {
+  color: $primary-color !important;  // Use !important to override any other styles
+}
+
+// Ensure other links are not affected by default and only change on hover or active state
+.navbar-nav .nav-item .nav-link {
+  color: inherit;  // Default link color, will inherit from parent or you can set a custom one
+}
+
+// Style for .navbar-brand hover
+.navbar-brand:hover {
+  color: $primary-color !important; // Ensures that this style takes precedence
+}
+
+// Style for Font Awesome icons on hover within list items
+li .fas:hover {
+  color: darken($primary-color, 10%) !important; // Darken the red color on hover
+}
+
+// Apply the primary color to elements
+body {
+  background-color: $background-color;
+}
+
+.btn-primary, .btn-group, .text-primary {
+  color: $primary-color;
+}
+
+// Style the buttons with the primary color and white text
+.btn-primary {
+  background-color: $primary-color;
+  color: $background-color; // Assuming you want the button text to be white
+  border-color: $primary-color; // If you want the border the same color as the button
+
+  // Add state styles for hover, focus, etc. if needed
+  &:hover {
+    background-color: darken($primary-color, 10%);
+    border-color: darken($primary-color, 10%);
+    color: $background-color; // Keep text color white on hover
+  }
+}
+
+// Style the button with the primary color outline
+.btn-outline-primary {
+  border-color: $primary-color;
+  color: $primary-color;
+
+  // Change the background and border color on hover
+  &:hover {
+    background-color: $primary-color;
+    border-color: $hover-color;
+    color: white; // Typically, the text color would be white on hover for better contrast
+  }
+
+  // Maintain the darker border color on focus for accessibility
+  &:focus {
+    border-color: $hover-color;
+    box-shadow: 0 0 0 0.2rem rgba($primary-color, 0.5); // Adjust the RGBA alpha value as needed
+  }
+}
+
+// Navbar styles
+.navbar {
+  background-color: $background-color;
+
+  // Style for non-selected nav item
+  .nav-link {
+    background-color: $background-color;
+    color: inherit; // Default text color
+    &:hover {
+      color: $primary-color;
+    }
+  }
+
+  // Style for a selected nav item
+  .nav-item.active .nav-link,
+  .nav-item .nav-link.active { // Some themes apply .active class directly to the link
+    background-color: $background-color; // Keep background color white
+    color: $primary-color; // Text color is primary color
+  }
+}

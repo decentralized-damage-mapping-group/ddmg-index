@@ -21,7 +21,7 @@ role: Geographer
 #bio: My interests include hydrogeology, 3D groundwater flow and contaminant transport simulation, data science and web technologies, and building simple solutions to complex problems.
 
 # interests:
-# - fupayme
+# - hehe
 
 education:
   courses:
