@@ -11,7 +11,7 @@ main:
     url: '/data'
     weight: 20
   - name: PRESS
-    url: '/press'
+    url: '/publication'
     weight: 30
   # - name: People
   #   url: '#people'
