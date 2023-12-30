@@ -7,10 +7,10 @@ main:
   # - name: Home
   #   url: '#about'
   #   weight: 10
-  - name: Gaza
-    url: '/gaza'
+  - name: DATA
+    url: '/data'
     weight: 20
-  - name: Press
+  - name: PRESS
     url: '/press'
     weight: 30
   # - name: People
@@ -19,7 +19,7 @@ main:
   # - name: Groups
   #   url: '#groups'
   #   weight: 50
-  - name: Contact
+  - name: CONTACT
     url: '#contact'
     weight: 60
 
