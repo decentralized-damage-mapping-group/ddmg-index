@@ -1,7 +1,7 @@
 ---
-title: 'Half of all buildings in northern Gaza are likely damaged or destroyed, according to satellite analysis estimates'
+title: "Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza | Tages-Anzeiger"
 
-date: '2023-10-07T00:00:00Z'
+date: '2023-10-18T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -10,10 +10,10 @@ date: '2023-10-07T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *New York Times*
-publication_short: In *NYT*
+publication: In *Tages-Anzeiger*
+publication_short: In *Tages-Anzeiger*
 
-abstract: New York Times
+abstract: Tages-Anzeiger
 
 tags: [gaza]
 
@@ -23,7 +23,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
   - name: Article
-    url: https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?smid=url-share#gaza-damage-nov-20
+    url: https://www.tagesanzeiger.ch/vorher-nachher-vergleich-satellitenbilder-zeigen-die-massive-zerstoerung-in-gaza-840901278132?gift_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtb3Z6NTA5OTQ2OSIsImlhdCI6MTY5NzgwMjQ1OCwiZXhwIjoxNzEzNTcwNDU4LCJ0ZW5hbnQiOiJ0YWdlc2FuemVpZ2VyIiwidW5pdHlJZCI6Ijg0MDkwMTI3ODEzMiIsImp0aSI6ImJhM2U0ZTM4ZWFmODc3MTZhNTI0YTFhOGVmOWYxNTI2ZGIxZGUzNDY4NDhkNzc2YzUzYzYxYjgyNDM1ZjJkNWIifQ.CMaGCq18KFJod1_TpLlB3moSSYWl4oJUfjN4VipHmZU
 
 # url_pdf: ''
 # url_code: ''
@@ -36,10 +36,6 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Image credit: **New York Times**'
-#  focal_point: ''
-#  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -51,4 +47,3 @@ projects: []
 #  - example
 
 ---
-

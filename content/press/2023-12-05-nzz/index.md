@@ -1,7 +1,7 @@
 ---
-title: 'Half of all buildings in northern Gaza are likely damaged or destroyed, according to satellite analysis estimates'
+title: "Gazakrieg: Wie viele Gebäude zerstört sind und wie voll es im Süden ist"
 
-date: '2023-10-07T00:00:00Z'
+date: '2023-12-05T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -10,10 +10,10 @@ date: '2023-10-07T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *New York Times*
-publication_short: In *NYT*
+publication: In *NZZ*
+publication_short: In *NZZ*
 
-abstract: New York Times
+abstract: NZZ
 
 tags: [gaza]
 
@@ -23,7 +23,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
   - name: Article
-    url: https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?smid=url-share#gaza-damage-nov-20
+    url: http://www.nzz.ch/international/gazakrieg/wie-eng-ist-es-mittlerweile-im-gazastreifen-ld.1767277
 
 # url_pdf: ''
 # url_code: ''
@@ -36,10 +36,6 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Image credit: **New York Times**'
-#  focal_point: ''
-#  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -51,4 +47,3 @@ projects: []
 #  - example
 
 ---
-
