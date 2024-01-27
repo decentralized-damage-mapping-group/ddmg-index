@@ -7,9 +7,9 @@ main:
   # - name: Home
   #   url: '#about'
   #   weight: 10
-  - name: DATA
-    url: '/data'
-    weight: 20
+  # - name: DATA
+  #   url: '/data'
+  #   weight: 20
   - name: PRESS
     url: '/press'
     weight: 30
