@@ -30,7 +30,7 @@ subtitle = "<br>"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "white"
+  color = ""
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
