@@ -7,19 +7,22 @@ main:
   # - name: Home
   #   url: '#about'
   #   weight: 10
-  - name: DATA
-    url: '/data'
+  # - name: DATA
+  #   url: '/data'
+  #   weight: 20
+  - name: Projects
+    url: '/project'
     weight: 20
-  - name: PRESS
+  - name: Press
     url: '/publication'
+    weight: 40
+  - name: People
+    url: '#people'
     weight: 30
-  # - name: People
-  #   url: '#people'
-  #   weight: 40
   # - name: Groups
   #   url: '#groups'
   #   weight: 50
-  - name: CONTACT
+  - name: Contact
     url: '#contact'
     weight: 60
 

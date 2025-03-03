@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jamon Van Den Hoek, PhD
+title: Jamon Van Den Hoek
 
 # Rich (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 #superuser: true
 
 # Role/position
-role: Geographer
+role: Associate Professor
 
 # Organizations/Affiliations
 #organizations:

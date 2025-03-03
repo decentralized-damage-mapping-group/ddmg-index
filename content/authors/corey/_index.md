@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Corey Scher, MS
+title: Corey Scher
 
 # Corey (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 #superuser: true
 
 # Role/position
-role: Remote Sensing Expert, Geologist
+role: Doctoral Candidate
 
 # Organizations/Affiliations
 #organizations:
