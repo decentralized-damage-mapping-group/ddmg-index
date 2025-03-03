@@ -1,0 +1,48 @@
+## DDMG website tasks
+
+FONTS
+
+- Change the font to BAHNSCHRIFT, roboto, or something similar
+
+PEOPLE
+
+- Consider a hierarchy of members so people don't email Amergin first, etc. Include "coordinator" roles
+
+- Remove the e-mail links to everyone
+
+- Make the e-mail centralized and send to the cooridators
+
+- Remove the individual pages for people and maybe make the links going out to their own websites or whatever links they choose
+
+PAGES
+
+- PROJECTS: Change to PORTFOLIO of finished stuff. Wim's reports, Lina's stuff, our papers, media coverage. 
+
+- MEDIA: (or press or coverage) -- this page for everything that people write about the stuff we do. We can add it to a list and ingest. Explore being able to automatically ingest new news sources that we add to a sheet for automatic updates to the website
+
+- FEATURED IN: get more than just Gaza in there. Sampling of projects. Change the language from "Featured In" to something like "Recent Work." 
+	- Add text to the landing page with more descriptive stuff below the title of the group. Talk about who we are as people and what we do. 
+
+	- NYT Ukraine
+	- Something on Gaza
+	- Humanitarian Reports (UNCTD, PAX, ?)
+
+	- Put the featured work in a grid
+
+- Header graphic for landing page?
+	- BARE BONES AESTHETIC with HAMMER black and white map projected globe in the background (JAMON will do this)
+		- replace the pixel thing 
+
+
+
+ - Make explicit press and contact page and lock it down
+ 	- Add some titles with single sentence blurb similar to FA model
+ 	- Replace our titles with the blurb about what we do
+ 		- Ask people to write that up however they want it
+ 		- Strip out ways for people to email individuals and make a single point of contact
+
+
+PRESS:
+	- look at filtering functionality in the press page
+
+DO A SCRAPE FOR ALL DDMG MENTIONS IN THE MEDIA, INCLUDING DECENTRALISED
